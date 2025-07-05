@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/Sudhirtmg/aws-clf-c02-study-notes/blob/main/banner.png?raw=true" alt="AWS CLF-C02 Banner"/>
+</p>
+
+
+
+
 # 🧠 AWS CLF-C02 Study Notes
 
 This repository contains my personal study notes, diagrams, cheat sheets, and quiz answers for the **AWS Certified Cloud Practitioner (CLF-C02)** exam.
