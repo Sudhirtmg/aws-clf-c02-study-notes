@@ -21,18 +21,19 @@ This repository contains my personal study notes, diagrams, cheat sheets, and qu
 
 ## 📁 Folder Structure
 
-aws-clf-c02-study-notes/
-├── Domain1-CloudConcepts/ → Notes and quizzes for Domain 1
-├── Domain2-Security/ → (To be added later)
-├── Domain3-Technology/ → (To be added later)
-├── Domain4-Billing/ → (To be added later)
-├── Diagrams/ → AWS architecture diagrams
-├── Cheatsheets/ → PDF or Markdown cheat sheets
-├── README.md → This file
-└── LICENSE → MIT License
+## 📘 Domain 1: Cloud Concepts
 
+🗂️ Topic-wise PDFs:
+- 🔹 [Cloud Computing – Introduction](Domain1-CloudConcepts/01-cloud-computing-intro.pdf)
+- 🔹 [Cloud Characteristics (Agility, Elasticity, etc.)](Domain1-CloudConcepts/02-cloud-characteristics.pdf)
+- 🔹 [Cloud Deployment Models](Domain1-CloudConcepts/03-cloud-deployment-models.pdf)
+- 🔹 [Cloud Service Models (IaaS, PaaS, SaaS, FaaS)](Domain1-CloudConcepts/04-cloud-service-models.pdf)
+- 🔹 [AWS Global Infrastructure](Domain1-CloudConcepts/05-global-infrastructure.pdf)
+- 🔹 [Scalability vs. Elasticity](Domain1-CloudConcepts/06-scalability-vs-elasticity.pdf)
+- ❓ [100 Practice Questions & Answers](Domain1-CloudConcepts/07-100-quiz-questions.pdf)
 
----
+📄 Full Notes PDF:
+- 📘 [Domain 1 – Full Notes (Single File)](Domain1-CloudConcepts/domain1-cloud-concepts-notes.pdf)
 
 ## ✅ Progress Tracker
 
